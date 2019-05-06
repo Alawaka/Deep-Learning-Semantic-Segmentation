@@ -40,6 +40,7 @@ A paper list of semantic segmentation using deep learning.
 |FastFCN|          |                    |53.1               |           |               |44.34      |arxiv 1903.11816|
 |GFF|              |                    |                   |           |82.3           |45.33      |arxiv 1904.01803|
 |HRNetV2|          |                    |54.0               |           |81.6           |           |arxiv 1904.04514|
+|CaseNet|          |                    |                   |           |81.9           |45.28      |arxiv 1904.08170|
 
 Semantic Segmentation论文整理
 <!--more-->
@@ -112,6 +113,10 @@ Semantic Segmentation论文整理
 - [**GFF**] GFF: Gated Fully Fusion for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1904.01803)
 - DADA: Depth-aware Domain Adaptation in Semantic Segmentation [[Paper]](https://arxiv.org/abs/1904.01886)
 - [**HRNetV2**] High-Resolution Representations for Labeling Pixels and Regions [[Paper]](https://arxiv.org/abs/1904.04514)
+- CaseNet: Content-Adaptive Scale Interaction Networks for Scene Parsing [[Paper]](https://arxiv.org/abs/1904.08170)
+- Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More [[Paper]](https://arxiv.org/abs/1904.10167)
+- [**CVPR 2019**] Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[Paper]](https://arxiv.org/abs/1904.10620)
+- [**CVPR 2019**] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation [[Paper]](https://arxiv.org/abs/1904.11693)
 
 # Real-Time Semantic Segmentation
 1. [**ENet**] ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation-2016  [[Paper]](https://arxiv.org/abs/1606.02147)
